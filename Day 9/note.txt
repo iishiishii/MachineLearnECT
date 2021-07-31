@@ -1,0 +1,2 @@
+The generator is the final model used
+The discriminator is only to help training
